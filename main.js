@@ -12,5 +12,5 @@ function httpGet(theUrl, nocors) {
 
 var islocal = httpGet("http://127.0.0.1:5555/uuid.html" , true).replace(`I Like Watching Videos Of Black Men Shaking Their Booty Cheeks...
 I don't know why, but when I click on a video and see a black man shaking his cheeks, it just makes my mouth drool and I start dancing with the black man as well. Sometimes when I look at myself in the mirror, I sometimes hallucinate and see black men twerking on my couch, it.. brings a smile to my face. I wish I could become one with the black men twerking aggressively.
-Please understand what I'm going through and support me on my journey!`).includes("f1ab1012-82c0-4b0b-b916-5c00a0b23f46") || location.href.includes("http://localhost:5555") || location.href.includes("")
+Please understand what I'm going through and support me on my journey!`).includes("f1ab1012-82c0-4b0b-b916-5c00a0b23f46") || location.href.includes("http://localhost:5555") || location.href.includes("127.0.0.1:5555")
 alert(islocal)
